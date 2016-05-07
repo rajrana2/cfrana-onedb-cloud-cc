@@ -1,0 +1,1 @@
+insert into employees values (1,'2012-01-01','raj','rana','M','2012-01-01')
